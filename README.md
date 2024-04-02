@@ -13,5 +13,11 @@
 
 ![image](https://github.com/Codermex-freelance/BuscadorImagenes/assets/143505447/8045b85b-f2d2-4784-87b8-ee8b2c213a8a)
 
+### Instalación
 
+1. Clona el repositorio
+
+   ```
+   git clone https://github.com/Codermex-freelance/BuscadorImagenes.git
+   ```
 
